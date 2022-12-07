@@ -1,3 +1,11 @@
+; Author:	Angelo Frasca Caccia (lem0nSec_)
+; Date:		07/12/2022
+; Title:	Project_injector_01.asm
+; Details:	Standard remote shellcode injection via kernel32.dll APIs (OpenProcess, VirtualAllocEx, WriteProcessMemory, CreateRemoteThread)
+; Website:	https://github.com/lem0nSec/ASM_World
+; Credits:	myself lol xoxo
+
+
 [BITS 64]
 
 section .data
