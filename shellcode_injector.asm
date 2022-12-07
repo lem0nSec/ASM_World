@@ -39,7 +39,7 @@ _start:
 	mov r8, 0x400							; dwSize
 	mov rcx, rax							; hProcess
 	mov rax, QWORD [ds:VirtualAllocEx]
-	call rax							; VirtualAllocEx(hProcess, 0, MEM_COMMIT, PAGE_READWRITE_EXECUTE)
+	call rax							; VirtualAllocEx(hProcess, 0, 0x400, MEM_COMMIT, PAGE_READWRITE_EXECUTE)
 	mov r13, rax							; storing the allocation base into r13
 	
 
