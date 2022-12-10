@@ -1,5 +1,5 @@
 # ASM_World ⛏
-Developing stuff in asm
+Developing offensive security-related code in asm just for fun!!
 
 Code:
 * code_01.asm
