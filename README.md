@@ -2,4 +2,5 @@
 Developing offensive security-related code in asm just for fun!!
 
 Code:
-* code_01.asm
+* Code_01.asm
+* (new code will be released soon!!)
