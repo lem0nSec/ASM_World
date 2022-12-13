@@ -1,5 +1,5 @@
 # ASM_World ⛏
-Developing offensive security-related code in asm just for fun!!
+Developing offensive security code in asm just for fun!!
 
 Code:
 * Code_01.asm		(standard remote shellcode injection)
