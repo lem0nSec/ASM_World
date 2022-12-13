@@ -9,7 +9,7 @@
 
 section .data
 	lib	db	"C:\Users\user\Desktop\mod.dll", 0x00		; path to dll
-	var	db	"Press a key to exit...", 0xa
+	var	db	"Press any key to exit...", 0xa
 
 section .text
 
