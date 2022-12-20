@@ -1,5 +1,11 @@
 # ASM_World ⛏
-Developing random offensive security code in asm just for fun!!
+
+**Developing random offensive security code in asm just for fun!!**
+
+
+Why is this useful?
+
+This repo aims to illustrate how common offensive security tactics work in practice. By doing so, we are able to fully take advantage of these techniques and try to figure out how to improve them and create new variants!
 
 Code:
 * Code_01.asm		(standard remote shellcode injection) - NASM
