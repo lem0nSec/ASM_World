@@ -3,6 +3,7 @@
 ; Title:	Code_04.asm
 ; Details:	Dinamically resolve function addresses: Allocate kernel32.dll addresses in the heap memory, then call them with 'call QWORD [ds:r14 + <int>]'
 ; Website:	https://github.com/lem0nSec/ASM_World
+; Credit:	https://dennisbabkin.com/blog/?t=how-to-implement-getprocaddress-in-shellcode
 
 
 [BITS 64]
