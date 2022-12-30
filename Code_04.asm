@@ -1,3 +1,10 @@
+; Author:	Angelo Frasca Caccia (lem0nSec_)
+; Date:		30/12/2022
+; Title:	Code_04.asm
+; Details:	Dinamically resolve function addresses: Allocate kernel32.dll addresses in the heap memory, then call them with 'call QWORD [ds:r14 + <int>]'
+; Website:	https://github.com/lem0nSec/ASM_World
+
+
 [BITS 64]
 
 
