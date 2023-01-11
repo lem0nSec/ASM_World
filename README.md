@@ -1,6 +1,6 @@
 # ASM_World ⛏
 
-**Developing random offensive security code in asm just for fun!!**
+**Developing some offensive security code in asm.**
 
 
 Why is this useful?
