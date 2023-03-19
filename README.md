@@ -1,11 +1,9 @@
 # ASM_World ⛏
 
-**Developing some offensive security code in asm.**
+**Developing in asm... w00t??**
 
-
-Why is this useful?
-
-This repo aims to illustrate how common offensive security tactics work in practice. By doing so, we are able to fully take advantage of these techniques and try to figure out how to improve them and create new variants!
+I consider this repo as an 'informal' backup of Assembly code snippets I often use when writing shellcode. So I don't need to rewrite the same code every time. 
+*Feel free to explore!*
 
 Code:
 * Code_01.asm		(standard remote shellcode injection) - NASM
