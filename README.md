@@ -2,10 +2,11 @@
 
 **Developing in asm... w00t??**
 
-I consider this repo as an 'informal' backup of Assembly code snippets I often use when writing shellcode. So I don't need to rewrite the same code every time. 
+I consider this repo an 'informal' backup of Assembly code snippets I often refer to when writing shellcode. 
+
 *Feel free to explore!*
 
-Code:
+**Code**:
 * Code_01.asm		(standard remote shellcode injection) - NASM
 *	Code_02.asm		(standard call to LoadLibraryA) - NASM
 * Code_03.asm   (XOR encryption example instructions) - NASM
